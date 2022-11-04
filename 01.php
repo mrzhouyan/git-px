@@ -12,3 +12,4 @@ echo 'v3';
 echo 'v3-03';
 echo 'v4';
 echo 'github';
+echo 'clone';
